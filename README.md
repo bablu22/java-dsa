@@ -1,6 +1,8 @@
 # java-dsa-journey
 
-A structured, topic-by-topic Java repository for mastering Data Structures & Algorithms — from fundamentals to advanced topics. Built for systematic learning, interview preparation, and future reference.
+A structured, topic-by-topic Java repository for mastering Data Structures &
+Algorithms — from fundamentals to advanced topics. Built for systematic
+learning, interview preparation, and future reference.
 
 ---
 
@@ -21,81 +23,57 @@ java-dsa-journey/
 ```
 
 Each topic folder contains:
+
 - `theory.md` — Concepts, definitions, complexity analysis, key takeaways
 - `revision.md` — Interview notes, common mistakes, quick revision points
-- `code/` — Clean implementations and working examples
-- `practice/` — Solved problems (LeetCode, GFG, custom exercises)
 
 ---
 
 ## Module Breakdown
 
-| # | Module | Topics |
-|---|--------|--------|
-| 1 | Foundations | Variables, Operators, Conditionals, Loops, Patterns, Functions, OOP |
-| 2 | Arrays & Strings | Arrays, 2D Arrays, Strings |
-| 3 | Core Algorithms | Basic Sorting, Bit Manipulation, Time & Space Complexity |
-| 4 | Recursion & Algorithms | Recursion, Divide & Conquer, Backtracking |
-| 5 | Linear Data Structures | ArrayLists, Linked Lists, Stacks, Queues |
-| 6 | Trees | Binary Trees, Binary Search Trees, Heaps |
-| 7 | Graphs | Greedy Algorithms, Graphs |
-| 8 | Hashing & Tries | Hashing, Tries |
-| 9 | Dynamic Programming | DP |
-| 10 | Advanced | Segment Trees |
-
----
-
-## Java Package Convention
-
-```
-com.dsajourney.<module>.<topic>
-```
-
-Examples:
-- `com.dsajourney.arrays.BinarySearch`
-- `com.dsajourney.linkedlists.LinkedListImpl`
-- `com.dsajourney.dp.KnapsackProblem`
+| #   | Module                 | Topics                                                              |
+| --- | ---------------------- | ------------------------------------------------------------------- |
+| 1   | Foundations            | Variables, Operators, Conditionals, Loops, Patterns, Functions, OOP |
+| 2   | Arrays & Strings       | Arrays, 2D Arrays, Strings                                          |
+| 3   | Core Algorithms        | Basic Sorting, Bit Manipulation, Time & Space Complexity            |
+| 4   | Recursion & Algorithms | Recursion, Divide & Conquer, Backtracking                           |
+| 5   | Linear Data Structures | ArrayLists, Linked Lists, Stacks, Queues                            |
+| 6   | Trees                  | Binary Trees, Binary Search Trees, Heaps                            |
+| 7   | Graphs                 | Greedy Algorithms, Graphs                                           |
+| 8   | Hashing & Tries        | Hashing, Tries                                                      |
+| 9   | Dynamic Programming    | DP                                                                  |
+| 10  | Advanced               | Segment Trees                                                       |
 
 ---
 
 ## Naming Conventions
 
-| File Type | Convention | Example |
-|-----------|------------|---------|
-| Implementation | `PascalCase` | `BinaryTree.java` |
-| Practice problem | `P##_ProblemName` | `P01_TwoSum.java` |
-| Algorithm class | `PascalCase` | `MergeSort.java` |
-| Helper/Node class | `PascalCase` | `TreeNode.java` |
-| Interface | `I` prefix | `IGraph.java` |
+| File Type         | Convention        | Example           |
+| ----------------- | ----------------- | ----------------- |
+| Implementation    | `PascalCase`      | `BinaryTree.java` |
+| Practice problem  | `P##_ProblemName` | `P01_TwoSum.java` |
+| Algorithm class   | `PascalCase`      | `MergeSort.java`  |
+| Helper/Node class | `PascalCase`      | `TreeNode.java`   |
+| Interface         | `I` prefix        | `IGraph.java`     |
 
 ---
 
 ## Progress
 
-See [COURSE_TRACKER.md](./COURSE_TRACKER.md) for topic-by-topic completion status.
+See [COURSE_TRACKER.md](./COURSE_TRACKER.md) for topic-by-topic completion
+status.
 
 ## Interview Prep
 
-See [INTERVIEW_PREP.md](./INTERVIEW_PREP.md) for topic-wise must-know problems and patterns.
+See [INTERVIEW_PREP.md](./INTERVIEW_PREP.md) for topic-wise must-know problems
+and patterns.
 
 ## Quick Reference
 
-See [CHEATSHEET.md](./CHEATSHEET.md) for complexity tables and pattern summaries.
-
----
-
-## How to Use This Repo
-
-1. Study `theory.md` before writing any code
-2. Implement the examples in `code/` yourself first, then compare
-3. Solve `practice/` problems independently — only check solutions after attempting
-4. Update `revision.md` with your own notes and mistakes
-5. Tick off topics in `COURSE_TRACKER.md` as you complete them
-
----
+See [CHEATSHEET.md](./CHEATSHEET.md) for complexity tables and pattern
+summaries.
 
 ## Tools
 
-- **Language:** Java 17+
-- **IDE:** IntelliJ IDEA
+- **Language:** Java 25
 - **Version Control:** Git + GitHub
