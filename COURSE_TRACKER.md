@@ -62,6 +62,7 @@ Track your completion status for each topic. Update the status as you progress.
 | 18 | Linked Lists | [ ] | [ ] | [ ] | [ ] | |
 | 19 | Stacks | [ ] | [ ] | [ ] | [ ] | |
 | 20 | Queues | [ ] | [ ] | [ ] | [ ] | |
+| 30 | Collections Framework | [ ] | [ ] | [ ] | [ ] | List, Set, Map, Queue, Deque, Iterator, Comparator |
 
 ---
 
@@ -117,13 +118,13 @@ Track your completion status for each topic. Update the status as you progress.
 | 2. Arrays & Strings | 3 | 0 | 0% |
 | 3. Core Algorithms | 3 | 0 | 0% |
 | 4. Recursion & Algorithms | 3 | 0 | 0% |
-| 5. Linear Data Structures | 4 | 0 | 0% |
+| 5. Linear Data Structures | 5 | 0 | 0% |
 | 6. Trees | 3 | 0 | 0% |
 | 7. Graphs | 2 | 0 | 0% |
 | 8. Hashing & Tries | 2 | 0 | 0% |
 | 9. Dynamic Programming | 1 | 0 | 0% |
 | 10. Advanced | 1 | 0 | 0% |
-| **Total** | **29** | **0** | **0%** |
+| **Total** | **30** | **0** | **0%** |
 
 ---
 
